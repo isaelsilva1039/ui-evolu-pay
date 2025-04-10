@@ -1,5 +1,4 @@
 # UI Evolu Pay
-![Captura de tela de 2025-04-10 16-41-41](https://github.com/user-attachments/assets/0d8abaa6-f03d-496d-90a0-863e360d8848)
 ![Captura de tela de 2025-04-10 16-53-19](https://github.com/user-attachments/assets/74c99b74-24d4-47a8-98ef-808a848cd080)
 ![Captura de tela de 2025-04-10 16-53-22](https://github.com/user-attachments/assets/c2c426ec-ae83-49c8-ae87-36291eadb4e3)
 ![Captura de tela de 2025-04-10 16-53-27](https://github.com/user-attachments/assets/8a5f18e5-2682-43d0-b4a3-9a1000fa619a)
